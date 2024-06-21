@@ -1,0 +1,12 @@
+fastapi
+gunicorn
+uvicorn 
+pandas
+scikit-learn
+scipy
+six
+joblib
+numpy
+pydantic
+httptools
+uvloop
